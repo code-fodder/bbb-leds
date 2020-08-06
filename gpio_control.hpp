@@ -3,9 +3,9 @@
 enum class gpio_pin : unsigned int
 {
     led_1 = 68,
-    led_r = 70,
-    led_g = 70,
-    led_b = 70
+    led_r = 44,
+    led_g = 68,
+    led_b = 67
 };
 
 class gpio_control
